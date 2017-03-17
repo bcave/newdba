@@ -1,0 +1,776 @@
+[
+  {
+    "_id": "58b03f6a6faa37e7449513ab",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58b01c1050d3bf600d233b89",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "Do I have what it takes?",
+    "duration": "15 minutes",
+    "_swipeMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
+      }
+    },
+    "_standardMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_backgroundImage": {
+        "src": ""
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/58b040a16faa37e7449513e2/small/Idea_optimized_full.jpeg",
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58b6bcd66faa37e744951484/7b8957fe70513f006593b28d1afea926.png",
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": ""
+        },
+        "_large": {
+          "src": "course/en/assets/images/58b41ffc6faa37e744951408/large/6035f7806e7ad83ccf337253ab991327.png"
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": true
+    },
+    "_hidePageHeader": true,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Do I have what it takes?",
+    "_type": "page",
+    "_courseOrder": "0"
+  },
+  {
+    "_id": "58b7035a6faa37e7449515a7",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58b01c1050d3bf600d233b89",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "Is this the right idea for me?",
+    "duration": "15 minutes",
+    "_swipeMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
+      }
+    },
+    "_standardMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_backgroundImage": {
+        "src": ""
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/58b948ff6faa37e7449516a8/small/07b5d4a828dd377f79ea544134899e71.png",
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58b6bcd66faa37e744951484/7b8957fe70513f006593b28d1afea926.png",
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": "course/en/assets/images/58b949746faa37e7449516ad/small/cc7be736fa11b9eb8cd79e0a324148c0.png"
+        },
+        "_large": {
+          "src": "course/en/assets/images/58b949746faa37e7449516ad/large/cc7be736fa11b9eb8cd79e0a324148c0.png"
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": true
+    },
+    "_hidePageHeader": true,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Is this the right idea for me?",
+    "_type": "page",
+    "_courseOrder": "1"
+  },
+  {
+    "_id": "58b703116faa37e7449514af",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58b01c1050d3bf600d233b89",
+    "_sortOrder": 2,
+    "__v": 0,
+    "displayTitle": "How can I test my idea?",
+    "duration": "15 minutes",
+    "_swipeMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
+      }
+    },
+    "_standardMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_backgroundImage": {
+        "src": ""
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/58b86bcc6faa37e7449516a3/small/79b15481ca56ef2b4cc7d2660c6b76f0.png",
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58b6bcd66faa37e744951484/7b8957fe70513f006593b28d1afea926.png",
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": ""
+        },
+        "_large": {
+          "src": "course/en/assets/images/58b86ba86faa37e7449516a1/large/84c956d1cf24a60d8c61c6bd79a6d728.png"
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": true
+    },
+    "_hidePageHeader": true,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "How can I test my idea?",
+    "_type": "page",
+    "_courseOrder": "2"
+  },
+  {
+    "_id": "58b703656faa37e7449515e5",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58b01c1050d3bf600d233b89",
+    "_sortOrder": 3,
+    "__v": 0,
+    "displayTitle": "Who else has similar ideas?",
+    "duration": "15 minutes",
+    "_swipeMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
+      }
+    },
+    "_standardMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_backgroundImage": {
+        "src": ""
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/58b949476faa37e7449516ab/small/6830a30c46752a5deec0394bf591dcee.png",
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58b6bcd66faa37e744951484/7b8957fe70513f006593b28d1afea926.png",
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": "course/en/assets/images/58b949636faa37e7449516ac/small/3a7a38872345f8ac04ef51e0bdd77578.png"
+        },
+        "_large": {
+          "src": "course/en/assets/images/58b949636faa37e7449516ac/large/3a7a38872345f8ac04ef51e0bdd77578.png"
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": true
+    },
+    "_hidePageHeader": true,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Who else has similar ideas?",
+    "_type": "page",
+    "_courseOrder": "3"
+  },
+  {
+    "_id": "58b7034f6faa37e744951569",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58b01c1050d3bf600d233b89",
+    "_sortOrder": 4,
+    "__v": 0,
+    "displayTitle": "Does my idea excite people?",
+    "duration": "15 minutes",
+    "_swipeMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
+      }
+    },
+    "_standardMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_backgroundImage": {
+        "src": ""
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/58b949266faa37e7449516a9/small/0653f02f00c32372f8cfc619370ce5e2.png",
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58b6bcd66faa37e744951484/7b8957fe70513f006593b28d1afea926.png",
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": "course/en/assets/images/58b949886faa37e7449516ae/small/6f4a0bd20a75465bdb5cba6df01bc232.png"
+        },
+        "_large": {
+          "src": "course/en/assets/images/58b949886faa37e7449516ae/large/6f4a0bd20a75465bdb5cba6df01bc232.png"
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": true
+    },
+    "_hidePageHeader": true,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Does my idea excite people?",
+    "_type": "page",
+    "_courseOrder": "4"
+  },
+  {
+    "_id": "58b703456faa37e74495152b",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58b01c1050d3bf600d233b89",
+    "_sortOrder": 5,
+    "__v": 0,
+    "displayTitle": "Can my idea be a product?",
+    "duration": "15 minutes",
+    "_swipeMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
+      }
+    },
+    "_standardMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_backgroundImage": {
+        "src": ""
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/58b949366faa37e7449516aa/small/f65b24d4649a3a863a6b9543d3fea368.png",
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58b6bcd66faa37e744951484/7b8957fe70513f006593b28d1afea926.png",
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": "course/en/assets/images/58b9499c6faa37e7449516af/small/c83fd4c6077d6e756dbb45e124193453.png"
+        },
+        "_large": {
+          "src": "course/en/assets/images/58b9499c6faa37e7449516af/large/c83fd4c6077d6e756dbb45e124193453.png"
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": true
+    },
+    "_hidePageHeader": true,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Can my idea be a product?",
+    "_type": "page",
+    "_courseOrder": "5"
+  }
+]
