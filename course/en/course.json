@@ -1,11 +1,14 @@
 {
-  "_id": "58b01c1050d3bf600d233b89",
-  "_createdAt": 1487936528202,
-  "_modifiedAt": 1490272311714,
+  "_id": "5967374c1568f8e516392e16",
+  "_createdAt": 1499936588023,
+  "_modifiedAt": 1500455533056,
+  "__v": 1,
+  "_refId": "58d2536013b751d90c4ed711",
+  "body": "",
   "_theme": "58b69e3d6faa37e74495146f",
-  "__v": 0,
-  "displayTitle": "Would my idea make a good business?",
+  "displayTitle": "How can I take my business from concept to launch?",
   "_swipeMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
     "_menuContentItems": [],
     "_mobileBackgroundImage": {
       "_repeat": false,
@@ -24,10 +27,13 @@
       "textAlignment": "left",
       "layout": "center"
     },
+    "_shouldShowControlsOnBottom": false,
     "_shouldDisableItemScaling": false,
     "_shouldDisableDetailOnHover": false
   },
   "_standardMenu": {
+    "_shouldShowIconOnMenuItems": true,
+    "_shouldShowProgressBarsOnMenus": true,
     "_menuContentItems": [],
     "_mobileBackgroundImage": {
       "_repeat": false,
@@ -48,19 +54,36 @@
     }
   },
   "_playlistMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
     "_menuGroupLabel": "Topics"
   },
   "_mapMenu": {
-    "_defaultPointerImage": "course/en/assets/images/58af18c350d3bf600d233b6e/eadc9396bf2bfbb3feb52f1d46dc13af.png",
-    "_mapImage": "course/en/assets/images/58b02c5c6faa37e744951397/large/da908d91d26d9112069ee8ea45790f58.png",
-    "_closeButtonText": "Close"
+    "_closeButtonText": "Close",
+    "_defaultPointerImage": {
+      "_id": "58af18c350d3bf600d233b6e",
+      "_extension": "png",
+      "_type": "image"
+    },
+    "_mapImage": {
+      "_id": "58b02c5c6faa37e744951397",
+      "_extension": "png",
+      "_type": "image",
+      "_size": "large"
+    }
   },
   "_coverMenu": {
-    "src": "course/en/assets/images/58b02c5c6faa37e744951397/large/da908d91d26d9112069ee8ea45790f58.png",
-    "_coverButtonText": "View"
+    "_shouldShowProgressBarsOnMenus": true,
+    "_coverButtonText": "View",
+    "src": {
+      "_id": "58b02c5c6faa37e744951397",
+      "_extension": "png",
+      "_type": "image",
+      "_size": "large"
+    }
   },
   "_boxMenu": {
     "_menuContentItems": [],
+    "_shouldShowProgressBarsOnMenus": true,
     "_mobileBackgroundImage": {
       "_repeat": false,
       "_fixed": false,
@@ -79,18 +102,9 @@
       "layout": "center"
     }
   },
-  "_resources": {
-    "_resourcesItems": [],
-    "_filterButtons": {
-      "link": "Links",
-      "media": "Media",
-      "document": "Documents",
-      "all": "All"
-    },
-    "title": "Resources",
-    "_isEnabled": true
-  },
   "_progress": {
+    "_isOnRightSide": true,
+    "_progressNavigationItemIcon": "list3",
     "progressSidebarAriaLabel": "Tab to move through the page items",
     "progressAriaLabel": "Select this button to toggle the progress sidebar",
     "courseExitButtonText": "Exit course",
@@ -103,14 +117,27 @@
     "courseNavigationSidebarAriaLabel": "Tab to move through the course items",
     "courseNavigationAriaLabel": "Select this button to toggle the course navigation sidebar",
     "_isOnRightSide": false,
+    "icon": "document2",
     "homeText": "Home",
     "_isEnabled": true
   },
   "_certificate": {
-    "_primaryLogo": "course/en/assets/images/58b0376a6faa37e7449513a9/9e84e50970abf7c7d0657e02055a54ef.png",
-    "_graphic": "course/en/assets/images/58b6b30d6faa37e744951475/03258612ca8da05875ec6dc6c90165aa.png",
-    "_secondaryLogo": "course/en/assets/images/58b6b40e6faa37e74495147a/91ea291826174e19ccf96c09977deb6a.png",
     "_orientation": "portrait",
+    "_graphic": {
+      "_id": "58b6b30d6faa37e744951475",
+      "_extension": "png",
+      "_type": "image"
+    },
+    "_secondaryLogo": {
+      "_id": "58b6b40e6faa37e74495147a",
+      "_extension": "png",
+      "_type": "image"
+    },
+    "_primaryLogo": {
+      "_id": "58b0376a6faa37e7449513a9",
+      "_extension": "png",
+      "_type": "image"
+    },
     "dateLabel": "Date awarded:",
     "nameLabel": "Name:",
     "downloadButtonText": "Download certificate",
@@ -128,6 +155,42 @@
     "_notificationTitle": "This course is in progress",
     "_isEnabled": true
   },
+  "_achievements": {
+    "_badges": {
+      "_items": [
+        {
+          "itemIndex": 0,
+          "_id": "58b035ec6faa37e7449513a8",
+          "_badgeCompletionType": "components"
+        }
+      ],
+      "badgeNotifyTitle": "You earned a badge!",
+      "badgesLabel": "Badges",
+      "badgesName": "Badges",
+      "_isEnabled": true
+    },
+    "_stars": {
+      "starsMissedLabel": "Stars missed",
+      "starsToCollectLabel": "Stars to collect",
+      "starsLabel": "Stars",
+      "starsName": "Stars",
+      "_isEnabled": false
+    },
+    "_lives": {
+      "_totalLives": 3,
+      "livesLabel": "Lives",
+      "livesName": "Lives",
+      "_isEnabled": false
+    },
+    "_points": {
+      "_defaultPoints": 50,
+      "pointsLabel": "Reward Points Unlocked",
+      "pointsName": "Reward Points",
+      "_isEnabled": true
+    },
+    "title": "Achievements",
+    "_isEnabled": true
+  },
   "_pageBackgroundImage": {
     "_mobileBackgroundImage": {
       "_repeat": false,
@@ -137,12 +200,20 @@
     },
     "_backgroundImage": {
       "_repeat": false,
-      "_fixed": false,
-      "_position": "center",
-      "_size": "cover"
+      "_fixed": true,
+      "_position": "top",
+      "_size": "cover",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "592e999902778c512a0afb9b"
+      }
     }
   },
-  "_courseTags": [],
+  "_courseTags": [
+    "592e910302778c512a0afb8c",
+    "592e913202778c512a0afb90"
+  ],
   "_fonts": {
     "_installed": [],
     "_google": []
@@ -198,29 +269,29 @@
   },
   "_footerNav": {
     "pageOfText": "of",
+    "_shouldDisableTitleButtonText": false,
     "nextButtonText": "Next",
     "previousButtonText": "Previous",
-    "_isEnabled": false
+    "_isEnabled": true
   },
   "_notify": {
-    "_shouldHideNotifyButton": false,
     "_buttonAlignment": "center",
     "_iconAlignment": "center",
     "_bodyTextAlignment": "center",
     "_titleTextAlignment": "center"
   },
   "_navigation": {
-    "_shouldHideSideNavigation": false,
-    "_shouldHideTopNavigation": false,
     "sidebarAriaLabel": "Tab to move through extra navigation items",
     "hamburgerAriaLabel": "Select this button to toggle the sidebar navigation",
-    "_isHamburgerMenuOnRightSide": false,
-    "_useHamburgerMenu": false,
-    "_useHomeIconForDashboardButton": false,
     "dashboardText": "Dashboard",
-    "_shouldShowDashboardButton": true,
     "backText": "Back to Page",
-    "backToMenuText": "Back to Menu"
+    "backToMenuText": "Back to Menu",
+    "_shouldHideMenu": true
+  },
+  "_version": {
+    "versionTitle": "aArdent Edits",
+    "_isLanguageVersion": false,
+    "_isVersion": false
   },
   "_reviews": {
     "_reviews": [],
@@ -228,10 +299,11 @@
   },
   "_categoryGroups": [],
   "_categories": [],
+  "_isEditLocked": false,
   "_displayTitleSettings": {
-    "_textAlign": "center",
-    "_fontSize": ""
+    "_fontSize": "",
+    "_textAlign": "center"
   },
-  "title": "Would my idea make a good business?",
+  "title": "2. How can I take my business from concept to launch? master aArdent Edits",
   "_type": "course"
 }

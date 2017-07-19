@@ -1,15 +1,18 @@
 [
   {
-    "_id": "58b40a826faa37e7449513f1",
+    "_id": "596737551568f8e516392eb3",
     "_sortOrder": 0,
-    "_parentId": "58b03f6a6faa37e7449513ab",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737531568f8e516392e9d",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
-    "displayTitle": "",
+    "displayTitle": "Intro",
+    "body": "",
+    "_refId": "58d3c2ad13b751d90c4ed984",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -64,21 +67,26 @@
       "_position": "center",
       "_size": "initial"
     },
+    "_hasScrollActionButton": false,
     "_classes": "article-style-5",
-    "title": "Intro video",
+    "title": "Intro",
     "_type": "article",
     "_courseOrder": "0-0"
   },
   {
-    "_id": "58b03f6a6faa37e7449513ae",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b03f6a6faa37e7449513ab",
+    "_id": "596737541568f8e516392eac",
     "_sortOrder": 1,
+    "_parentId": "596737531568f8e516392e9d",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "displayTitle": "",
+    "body": "<p></p><div><br></div><p></p>",
+    "_refId": "58d2536713b751d90c4ed86a",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -93,7 +101,7 @@
         "_isEnabled": true
       },
       "_isShelved": false,
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_dividers": {
       "_after": {
@@ -103,7 +111,6 @@
             "_height": 200
           },
           "_large": {
-            "src": "course/en/assets/images/58ad7fa450d3bf600d233ae7/large/9b1aace922c3ab61d09d8d820d4b9563.png",
             "_shouldRepeat": false,
             "_height": 200
           }
@@ -134,21 +141,25 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "Do I have what it takes?",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Mentors and Advisors",
     "_type": "article",
     "_courseOrder": "0-1"
   },
   {
-    "_id": "58b03f6a6faa37e7449513af",
+    "_id": "596737531568f8e516392e9e",
+    "_courseId": "5967374c1568f8e516392e16",
+    "_parentId": "596737531568f8e516392e9d",
     "_sortOrder": 2,
-    "_parentId": "58b03f6a6faa37e7449513ab",
-    "_courseId": "58b01c1050d3bf600d233b89",
     "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d2536613b751d90c4ed83c",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -163,7 +174,7 @@
         "_isEnabled": true
       },
       "_isShelved": false,
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_dividers": {
       "_after": {
@@ -174,7 +185,13 @@
           },
           "_large": {
             "_shouldRepeat": false,
-            "_height": 200
+            "_height": 200,
+            "src": {
+              "_id": "58ad7fa450d3bf600d233ae7",
+              "_extension": "png",
+              "_type": "image",
+              "_size": "large"
+            }
           }
         },
         "_isEnabled": false
@@ -203,21 +220,26 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "Reality check",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Hiring Your First Employees",
     "_type": "article",
     "_courseOrder": "0-2"
   },
   {
-    "_id": "58b03f6a6faa37e7449513b0",
+    "_id": "596737541568f8e516392ea1",
     "_sortOrder": 3,
-    "_parentId": "58b03f6a6faa37e7449513ab",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737531568f8e516392e9d",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "displayTitle": "",
+    "body": "",
+    "_refId": "58d2536613b751d90c4ed83f",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -232,7 +254,7 @@
         "_isEnabled": true
       },
       "_isShelved": false,
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_dividers": {
       "_after": {
@@ -243,7 +265,13 @@
           },
           "_large": {
             "_shouldRepeat": false,
-            "_height": 200
+            "_height": 200,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "58b6b5df6faa37e74495147c"
+            }
           }
         },
         "_isEnabled": false
@@ -272,21 +300,25 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "Unique ideas",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Being an employer",
     "_type": "article",
     "_courseOrder": "0-3"
   },
   {
-    "_id": "58b03f6a6faa37e7449513b1",
+    "_id": "596737551568f8e516392eba",
     "_sortOrder": 4,
-    "_parentId": "58b03f6a6faa37e7449513ab",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737531568f8e516392e9d",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "593920eb08a265827f217b48",
+    "displayTitle": "Ready to test your skills?",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -301,7 +333,7 @@
         "_isEnabled": true
       },
       "_isShelved": false,
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_dividers": {
       "_after": {
@@ -339,23 +371,31 @@
     "_backgroundImage": {
       "_repeat": false,
       "_position": "center",
-      "_size": "initial"
+      "_size": "cover",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "595628b8ef64ffa15e2f1e24"
+      }
     },
-    "_classes": "article-style-7",
-    "title": "Good fit for you",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Ready to test your skills?",
     "_type": "article",
     "_courseOrder": "0-4"
   },
   {
-    "_id": "58b03f6a6faa37e7449513b2",
+    "_id": "596737541568f8e516392ea4",
     "_sortOrder": 5,
-    "_parentId": "58b03f6a6faa37e7449513ab",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737531568f8e516392e9d",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "58d2536713b751d90c4ed85b",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -370,7 +410,7 @@
         "_isEnabled": true
       },
       "_isShelved": false,
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_dividers": {
       "_after": {
@@ -380,12 +420,11 @@
             "_height": 200
           },
           "_large": {
-            "src": "course/en/assets/images/58ca992d13b751d90c4ed485/large/4d548167e5820e001de4ebfd4d16b61a.png",
-            "_shouldRepeat": true,
+            "_shouldRepeat": false,
             "_height": 200
           }
         },
-        "_isEnabled": true
+        "_isEnabled": false
       },
       "_before": {
         "_graphic": {
@@ -411,21 +450,24 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "Right time",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question 1 : Mentoring",
     "_type": "article",
     "_courseOrder": "0-5"
   },
   {
-    "_id": "58b03f6a6faa37e7449513b3",
+    "_id": "596737551568f8e516392eb6",
     "_sortOrder": 6,
-    "_parentId": "58b03f6a6faa37e7449513ab",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737531568f8e516392e9d",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "58dd43ebfddda761309e068b",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -440,7 +482,7 @@
         "_isEnabled": true
       },
       "_isShelved": false,
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_dividers": {
       "_after": {
@@ -480,21 +522,24 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-3",
-    "title": "Reality question",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question 2 : Hiring",
     "_type": "article",
     "_courseOrder": "0-6"
   },
   {
-    "_id": "58b03f6a6faa37e7449513b4",
+    "_id": "596737541568f8e516392ea8",
     "_sortOrder": 7,
-    "_parentId": "58b03f6a6faa37e7449513ab",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737531568f8e516392e9d",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "58d2536713b751d90c4ed865",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -549,21 +594,25 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-3",
-    "title": "Value question",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question 3 : Employer Legal Requirements",
     "_type": "article",
     "_courseOrder": "0-7"
   },
   {
-    "_id": "58b03f6a6faa37e7449513b6",
+    "_id": "596737541568f8e516392eb0",
     "_sortOrder": 8,
-    "_parentId": "58b03f6a6faa37e7449513ab",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737531568f8e516392e9d",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "58d2536713b751d90c4ed86f",
+    "displayTitle": "Summary",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -618,159 +667,25 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-3",
-    "title": "Mirror question",
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-4",
+    "title": "Summary",
     "_type": "article",
     "_courseOrder": "0-8"
   },
   {
-    "_id": "58b58ddc6faa37e74495145b",
-    "_sortOrder": 9,
-    "_parentId": "58b03f6a6faa37e7449513ab",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-4",
-    "title": "Summary",
-    "_type": "article",
-    "_courseOrder": "0-9"
-  },
-  {
-    "_id": "58c90b7713b751d90c4ed42c",
-    "_sortOrder": 10,
-    "_parentId": "58b03f6a6faa37e7449513ab",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": false
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-10",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "0-10"
-  },
-  {
-    "_id": "58b7035a6faa37e7449515b5",
+    "_id": "5967374e1568f8e516392e3b",
     "_sortOrder": 0,
-    "_parentId": "58b7035a6faa37e7449515a7",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "displayTitle": "Intro",
+    "_refId": "58dcdbfefddda761309e0635",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -825,21 +740,25 @@
       "_position": "center",
       "_size": "initial"
     },
+    "_hasScrollActionButton": false,
     "_classes": "article-style-5",
-    "title": "Intro video",
+    "title": "Intro",
     "_type": "article",
     "_courseOrder": "1-0"
   },
   {
-    "_id": "58b7035a6faa37e7449515ad",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b7035a6faa37e7449515a7",
+    "_id": "5967374d1568f8e516392e21",
     "_sortOrder": 1,
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d2536113b751d90c4ed74f",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -864,7 +783,6 @@
             "_height": 200
           },
           "_large": {
-            "src": "course/en/assets/images/58ad7fa450d3bf600d233ae7/large/9b1aace922c3ab61d09d8d820d4b9563.png",
             "_shouldRepeat": false,
             "_height": 200
           }
@@ -895,21 +813,24 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "Coming up with new ideas",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Final check on the idea",
     "_type": "article",
     "_courseOrder": "1-1"
   },
   {
-    "_id": "58c92c8013b751d90c4ed430",
+    "_id": "5967374f1568f8e516392e41",
     "_sortOrder": 2,
-    "_parentId": "58b7035a6faa37e7449515a7",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "591c46f202778c512a0aabc7",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -964,21 +885,24 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "Staying interested",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Founder stories - Silkfred",
     "_type": "article",
     "_courseOrder": "1-2"
   },
   {
-    "_id": "58b7035a6faa37e7449515ae",
+    "_id": "5967374f1568f8e516392e49",
     "_sortOrder": 3,
-    "_parentId": "58b7035a6faa37e7449515a7",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "5923fe0802778c512a0af1c0",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1033,21 +957,25 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-9",
-    "title": "Ideas you are passionate about",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Founder Stories : Night Zookeeper",
     "_type": "article",
     "_courseOrder": "1-3"
   },
   {
-    "_id": "58b7035a6faa37e7449515b0",
+    "_id": "5967374c1568f8e516392e1a",
     "_sortOrder": 4,
-    "_parentId": "58b7035a6faa37e7449515a7",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d2536113b751d90c4ed723",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1062,7 +990,7 @@
         "_isEnabled": true
       },
       "_isShelved": false,
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_dividers": {
       "_after": {
@@ -1102,21 +1030,25 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "Founder stories",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Planning backwards - your customer proposition",
     "_type": "article",
     "_courseOrder": "1-4"
   },
   {
-    "_id": "58b7035a6faa37e7449515b1",
+    "_id": "5967374d1568f8e516392e29",
     "_sortOrder": 5,
-    "_parentId": "58b7035a6faa37e7449515a7",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d3aa0a13b751d90c4ed949",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1141,7 +1073,6 @@
             "_height": 200
           },
           "_large": {
-            "src": "course/en/assets/images/58b6b5df6faa37e74495147c/large/6091e0a019df8b2f04c543212e2cc162_optimized_full.jpeg",
             "_shouldRepeat": false,
             "_height": 200
           }
@@ -1172,21 +1103,24 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-7",
-    "title": "Refining ideas",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "How can I make a pitch video?",
     "_type": "article",
     "_courseOrder": "1-5"
   },
   {
-    "_id": "58b7035a6faa37e7449515af",
+    "_id": "5967374f1568f8e516392e45",
     "_sortOrder": 6,
-    "_parentId": "58b7035a6faa37e7449515a7",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "591c477302778c512a0aabc9",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1211,12 +1145,11 @@
             "_height": 200
           },
           "_large": {
-            "src": "course/en/assets/images/58cac38513b751d90c4ed4a0/large/a5ea83b8711c86e246e5eaed4bbabdc1.png",
             "_shouldRepeat": false,
             "_height": 200
           }
         },
-        "_isEnabled": true
+        "_isEnabled": false
       },
       "_before": {
         "_graphic": {
@@ -1242,21 +1175,25 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "Testing ideas",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Example pitch video",
     "_type": "article",
     "_courseOrder": "1-6"
   },
   {
-    "_id": "58b7035a6faa37e7449515b2",
+    "_id": "5967374d1568f8e516392e2d",
     "_sortOrder": 7,
-    "_parentId": "58b7035a6faa37e7449515a7",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d3aa1b13b751d90c4ed94b",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1311,21 +1248,25 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-9",
-    "title": "Ideas question",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Basic landing page and website",
     "_type": "article",
     "_courseOrder": "1-7"
   },
   {
-    "_id": "58b7035a6faa37e7449515b3",
+    "_id": "5967374e1568f8e516392e31",
     "_sortOrder": 8,
-    "_parentId": "58b7035a6faa37e7449515a7",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d3aa2913b751d90c4ed94d",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1380,21 +1321,25 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-9",
-    "title": "Refining question",
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "title": "Customer materials",
     "_type": "article",
     "_courseOrder": "1-8"
   },
   {
-    "_id": "58b7035a6faa37e7449515b4",
+    "_id": "5967374d1568f8e516392e1e",
     "_sortOrder": 9,
-    "_parentId": "58b7035a6faa37e7449515a7",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "displayTitle": "<br>",
+    "_refId": "58d2536113b751d90c4ed728",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1409,7 +1354,7 @@
         "_isEnabled": true
       },
       "_isShelved": false,
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_dividers": {
       "_after": {
@@ -1420,7 +1365,13 @@
           },
           "_large": {
             "_shouldRepeat": false,
-            "_height": 200
+            "_height": 200,
+            "src": {
+              "_id": "58b6b5df6faa37e74495147c",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
           }
         },
         "_isEnabled": false
@@ -1449,21 +1400,25 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-9",
-    "title": "Testing question",
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "title": "Planning backwards - Your business plan",
     "_type": "article",
     "_courseOrder": "1-9"
   },
   {
-    "_id": "58b7035a6faa37e7449515b6",
+    "_id": "5967374f1568f8e516392e4d",
     "_sortOrder": 10,
-    "_parentId": "58b7035a6faa37e7449515a7",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "593920eb08a265827f217b48",
+    "displayTitle": "Ready to test your skills?",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1516,23 +1471,33 @@
     "_backgroundImage": {
       "_repeat": false,
       "_position": "center",
-      "_size": "initial"
+      "_size": "cover",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "595628b8ef64ffa15e2f1e24"
+      }
     },
-    "_classes": "article-style-4",
-    "title": "Summary",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Ready to test your skills?",
     "_type": "article",
     "_courseOrder": "1-10"
   },
   {
-    "_id": "58cac6bb13b751d90c4ed4a3",
+    "_id": "5967374d1568f8e516392e25",
     "_sortOrder": 11,
-    "_parentId": "58b7035a6faa37e7449515a7",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "displayTitle": "",
+    "body": "",
+    "_refId": "58d27b5613b751d90c4ed913",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1558,7 +1523,13 @@
           },
           "_large": {
             "_shouldRepeat": false,
-            "_height": 200
+            "_height": 200,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "58b6b5df6faa37e74495147c"
+            }
           }
         },
         "_isEnabled": false
@@ -1587,21 +1558,24 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-10",
-    "title": "New Article Title",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question 1 : Final Check",
     "_type": "article",
     "_courseOrder": "1-11"
   },
   {
-    "_id": "58b703116faa37e7449514bd",
-    "_sortOrder": 0,
-    "_parentId": "58b703116faa37e7449514af",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_id": "5967374e1568f8e516392e34",
+    "_sortOrder": 12,
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "58dcd9fefddda761309e0631",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1656,21 +1630,243 @@
       "_position": "center",
       "_size": "initial"
     },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question 2 : Customer materials",
+    "_type": "article",
+    "_courseOrder": "1-12"
+  },
+  {
+    "_id": "5967374e1568f8e516392e37",
+    "_sortOrder": 13,
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "58dcda1efddda761309e0633",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question 3 : Business-facing materials",
+    "_type": "article",
+    "_courseOrder": "1-13"
+  },
+  {
+    "_id": "5967374e1568f8e516392e3e",
+    "_sortOrder": 14,
+    "_parentId": "5967374c1568f8e516392e19",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "58dd340ffddda761309e065b",
+    "displayTitle": "Summary",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-4",
+    "title": "Summary",
+    "_type": "article",
+    "_courseOrder": "1-14"
+  },
+  {
+    "_id": "596737501568f8e516392e5e",
+    "_sortOrder": 0,
+    "_parentId": "5967374f1568f8e516392e4f",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "displayTitle": "Intro&nbsp;",
+    "_refId": "58d2536213b751d90c4ed793",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
     "_classes": "article-style-5",
-    "title": "Intro video",
+    "title": "Intro ",
     "_type": "article",
     "_courseOrder": "2-0"
   },
   {
-    "_id": "58b703116faa37e7449514b5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b703116faa37e7449514af",
+    "_id": "5967374f1568f8e516392e50",
+    "_courseId": "5967374c1568f8e516392e16",
+    "_parentId": "5967374f1568f8e516392e4f",
     "_sortOrder": 1,
     "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d2536213b751d90c4ed767",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1695,9 +1891,14 @@
             "_height": 200
           },
           "_large": {
-            "src": "course/en/assets/images/58ad7fa450d3bf600d233ae7/large/9b1aace922c3ab61d09d8d820d4b9563.png",
             "_shouldRepeat": false,
-            "_height": 200
+            "_height": 200,
+            "src": {
+              "_id": "58ad7fa450d3bf600d233ae7",
+              "_extension": "png",
+              "_type": "image",
+              "_size": "large"
+            }
           }
         },
         "_isEnabled": false
@@ -1726,21 +1927,25 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "How to test",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Getting by : Bootstrapping",
     "_type": "article",
     "_courseOrder": "2-1"
   },
   {
-    "_id": "58b703116faa37e7449514b6",
+    "_id": "5967374f1568f8e516392e53",
     "_sortOrder": 2,
-    "_parentId": "58b703116faa37e7449514af",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374f1568f8e516392e4f",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "body": "",
+    "_refId": "58d2536213b751d90c4ed76a",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1795,21 +2000,24 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "From idea to business model",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Getting your first pot of money",
     "_type": "article",
     "_courseOrder": "2-2"
   },
   {
-    "_id": "58b703116faa37e7449514b7",
+    "_id": "596737511568f8e516392e6c",
     "_sortOrder": 3,
-    "_parentId": "58b703116faa37e7449514af",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374f1568f8e516392e4f",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "591c490702778c512a0aabcb",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1864,21 +2072,24 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "Organising your thoughts",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Stages of early funding",
     "_type": "article",
     "_courseOrder": "2-3"
   },
   {
-    "_id": "58b703116faa37e7449514b8",
+    "_id": "596737511568f8e516392e70",
     "_sortOrder": 4,
-    "_parentId": "58b703116faa37e7449514af",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374f1568f8e516392e4f",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "591c495e02778c512a0aabcd",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1933,21 +2144,25 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-8",
-    "title": "Exploring the canvas",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Founder Stories : Raising your first pot of money",
     "_type": "article",
     "_courseOrder": "2-4"
   },
   {
-    "_id": "58b703116faa37e7449514b9",
+    "_id": "596737501568f8e516392e57",
     "_sortOrder": 5,
-    "_parentId": "58b703116faa37e7449514af",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374f1568f8e516392e4f",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d2536213b751d90c4ed76f",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -1972,9 +2187,14 @@
             "_height": 200
           },
           "_large": {
-            "src": "course/en/assets/images/58b6b5df6faa37e74495147c/large/6091e0a019df8b2f04c543212e2cc162_optimized_full.jpeg",
             "_shouldRepeat": false,
-            "_height": 200
+            "_height": 200,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "58b6b5df6faa37e74495147c"
+            }
           }
         },
         "_isEnabled": false
@@ -2003,2236 +2223,182 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "Nailing your customer profiles",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "What do funders usually look for?",
     "_type": "article",
     "_courseOrder": "2-5"
   },
   {
-    "_id": "58b853426faa37e74495165c",
+    "_id": "596737511568f8e516392e73",
     "_sortOrder": 6,
-    "_parentId": "58b703116faa37e7449514af",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "5967374f1568f8e516392e4f",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
-    "_progress": {
-      "_isEnabled": false
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "src": "course/en/assets/images/58caccc413b751d90c4ed4ac/large/cd9fa4b21b83a02dd2fb09352b0fedff.png",
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": true
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-1",
-    "title": "Honing your skills",
-    "_type": "article",
-    "_courseOrder": "2-6"
-  },
-  {
-    "_id": "58b703116faa37e7449514ba",
-    "_sortOrder": 7,
-    "_parentId": "58b703116faa37e7449514af",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-3",
-    "title": "Canvas question",
-    "_type": "article",
-    "_courseOrder": "2-7"
-  },
-  {
-    "_id": "58b703116faa37e7449514bb",
-    "_sortOrder": 8,
-    "_parentId": "58b703116faa37e7449514af",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-3",
-    "title": "Segments question",
-    "_type": "article",
-    "_courseOrder": "2-8"
-  },
-  {
-    "_id": "58b703116faa37e7449514bc",
-    "_sortOrder": 9,
-    "_parentId": "58b703116faa37e7449514af",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-3",
-    "title": "Creation question",
-    "_type": "article",
-    "_courseOrder": "2-9"
-  },
-  {
-    "_id": "58b703116faa37e7449514be",
-    "_sortOrder": 10,
-    "_parentId": "58b703116faa37e7449514af",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-4",
-    "title": "Summary",
-    "_type": "article",
-    "_courseOrder": "2-10"
-  },
-  {
-    "_id": "58cacd0213b751d90c4ed4ae",
-    "_sortOrder": 11,
-    "_parentId": "58b703116faa37e7449514af",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": false
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-10",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "2-11"
-  },
-  {
-    "_id": "58b703666faa37e7449515f3",
-    "_sortOrder": 0,
-    "_parentId": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-5",
-    "title": "Intro video",
-    "_type": "article",
-    "_courseOrder": "3-0"
-  },
-  {
-    "_id": "58b703666faa37e7449515eb",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b703656faa37e7449515e5",
-    "_sortOrder": 1,
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "src": "course/en/assets/images/58ad7fa450d3bf600d233ae7/large/9b1aace922c3ab61d09d8d820d4b9563.png",
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-1",
-    "title": "Who else has these ideas?",
-    "_type": "article",
-    "_courseOrder": "3-1"
-  },
-  {
-    "_id": "58b703666faa37e7449515ec",
-    "_sortOrder": 2,
-    "_parentId": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-1",
-    "title": "Understanding your market",
-    "_type": "article",
-    "_courseOrder": "3-2"
-  },
-  {
-    "_id": "58b703666faa37e7449515ed",
-    "_sortOrder": 3,
-    "_parentId": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-1",
-    "title": "Thinking through the market",
-    "_type": "article",
-    "_courseOrder": "3-3"
-  },
-  {
-    "_id": "58b703666faa37e7449515ee",
-    "_sortOrder": 4,
-    "_parentId": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-7",
-    "title": "Examining the market",
-    "_type": "article",
-    "_courseOrder": "3-4"
-  },
-  {
-    "_id": "58b703666faa37e7449515ef",
-    "_sortOrder": 5,
-    "_parentId": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "src": "course/en/assets/images/58b6b5df6faa37e74495147c/large/6091e0a019df8b2f04c543212e2cc162_optimized_full.jpeg",
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-1",
-    "title": "Looking to the future",
-    "_type": "article",
-    "_courseOrder": "3-5"
-  },
-  {
-    "_id": "58bff30913b751d90c4ed3ad",
-    "_sortOrder": 6,
-    "_parentId": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-1",
-    "title": "Assessing the world",
-    "_type": "article",
-    "_courseOrder": "3-6"
-  },
-  {
-    "_id": "58bff31a13b751d90c4ed3af",
-    "_sortOrder": 7,
-    "_parentId": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-1",
-    "title": "Identifying your edge",
-    "_type": "article",
-    "_courseOrder": "3-7"
-  },
-  {
-    "_id": "58bff37113b751d90c4ed3b3",
-    "_sortOrder": 8,
-    "_parentId": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "src": "course/en/assets/images/58cacf9613b751d90c4ed4b7/large/388b839590ab9d61085900103e980495.png",
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": true
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-7",
-    "title": "Building a winning team",
-    "_type": "article",
-    "_courseOrder": "3-8"
-  },
-  {
-    "_id": "58b703666faa37e7449515f0",
-    "_sortOrder": 9,
-    "_parentId": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-3",
-    "title": "Measuring up your market",
-    "_type": "article",
-    "_courseOrder": "3-9"
-  },
-  {
-    "_id": "58b703666faa37e7449515f1",
-    "_sortOrder": 10,
-    "_parentId": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-3",
-    "title": "Strategy question",
-    "_type": "article",
-    "_courseOrder": "3-10"
-  },
-  {
-    "_id": "58b703666faa37e7449515f2",
-    "_sortOrder": 11,
-    "_parentId": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-3",
-    "title": "Strengths question",
-    "_type": "article",
-    "_courseOrder": "3-11"
-  },
-  {
-    "_id": "58b703666faa37e7449515f4",
-    "_sortOrder": 12,
-    "_parentId": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-4",
-    "title": "Summary",
-    "_type": "article",
-    "_courseOrder": "3-12"
-  },
-  {
-    "_id": "58cacfd313b751d90c4ed4b9",
-    "_sortOrder": 13,
-    "_parentId": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": false
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-10",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "3-13"
-  },
-  {
-    "_id": "58b7034f6faa37e744951577",
-    "_sortOrder": 0,
-    "_parentId": "58b7034f6faa37e744951569",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-6",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "4-0"
-  },
-  {
-    "_id": "58b7034f6faa37e74495156f",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b7034f6faa37e744951569",
-    "_sortOrder": 1,
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "src": "course/en/assets/images/58ad7fa450d3bf600d233ae7/large/9b1aace922c3ab61d09d8d820d4b9563.png",
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-1",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "4-1"
-  },
-  {
-    "_id": "58b7034f6faa37e744951571",
-    "_sortOrder": 2,
-    "_parentId": "58b7034f6faa37e744951569",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-9",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "4-2"
-  },
-  {
-    "_id": "58b7034f6faa37e744951570",
-    "_sortOrder": 3,
-    "_parentId": "58b7034f6faa37e744951569",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-7",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "4-3"
-  },
-  {
-    "_id": "58d0eef513b751d90c4ed51e",
-    "_sortOrder": 4,
-    "_parentId": "58b7034f6faa37e744951569",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-1",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "4-4"
-  },
-  {
-    "_id": "58b7034f6faa37e744951572",
-    "_sortOrder": 5,
-    "_parentId": "58b7034f6faa37e744951569",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-1",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "4-5"
-  },
-  {
-    "_id": "58b7034f6faa37e744951573",
-    "_sortOrder": 6,
-    "_parentId": "58b7034f6faa37e744951569",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "src": "course/en/assets/images/58d1166d13b751d90c4ed544/large/6ce6e55bbdfbb2fc6c44841aab83efe9.png",
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": true
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-1",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "4-6"
-  },
-  {
-    "_id": "58b7034f6faa37e744951574",
-    "_sortOrder": 7,
-    "_parentId": "58b7034f6faa37e744951569",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-3",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "4-7"
-  },
-  {
-    "_id": "58b7034f6faa37e744951575",
-    "_sortOrder": 8,
-    "_parentId": "58b7034f6faa37e744951569",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-3",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "4-8"
-  },
-  {
-    "_id": "58b7034f6faa37e744951576",
-    "_sortOrder": 9,
-    "_parentId": "58b7034f6faa37e744951569",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-3",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "4-9"
-  },
-  {
-    "_id": "58b7034f6faa37e744951578",
-    "_sortOrder": 10,
-    "_parentId": "58b7034f6faa37e744951569",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-4",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "4-10"
-  },
-  {
-    "_id": "58cfa36e13b751d90c4ed4f7",
-    "_sortOrder": 11,
-    "_parentId": "58b7034f6faa37e744951569",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-10",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "4-11"
-  },
-  {
-    "_id": "58b703456faa37e744951539",
-    "_sortOrder": 0,
-    "_parentId": "58b703456faa37e74495152b",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
+    "_refId": "591c4c0702778c512a0aabcf",
     "displayTitle": "",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58b6b5df6faa37e74495147c",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Investment in action : Dragon's Den",
+    "_type": "article",
+    "_courseOrder": "2-6"
+  },
+  {
+    "_id": "596737521568f8e516392e7a",
+    "_sortOrder": 7,
+    "_parentId": "5967374f1568f8e516392e4f",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "593920eb08a265827f217b48",
+    "displayTitle": "Ready to test your skills?",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "595628b8ef64ffa15e2f1e24"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Ready to test your skills?",
+    "_type": "article",
+    "_courseOrder": "2-7"
+  },
+  {
+    "_id": "596737501568f8e516392e5a",
+    "_sortOrder": 8,
+    "_parentId": "5967374f1568f8e516392e4f",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d2536213b751d90c4ed780",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -4287,21 +2453,1202 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-6",
-    "title": "Intro video",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question 1: Freebies & Discounts",
     "_type": "article",
-    "_courseOrder": "5-0"
+    "_courseOrder": "2-8"
   },
   {
-    "_id": "58b703456faa37e744951531",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b703456faa37e74495152b",
+    "_id": "596737501568f8e516392e64",
+    "_sortOrder": 9,
+    "_parentId": "5967374f1568f8e516392e4f",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "58dd4a26fddda761309e069e",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question 2: Getting your first pot of money",
+    "_type": "article",
+    "_courseOrder": "2-9"
+  },
+  {
+    "_id": "596737511568f8e516392e68",
+    "_sortOrder": 10,
+    "_parentId": "5967374f1568f8e516392e4f",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "58dd4a45fddda761309e06a0",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question 3 : What investors looks for",
+    "_type": "article",
+    "_courseOrder": "2-10"
+  },
+  {
+    "_id": "596737501568f8e516392e61",
+    "_sortOrder": 11,
+    "_parentId": "5967374f1568f8e516392e4f",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "58d2536213b751d90c4ed799",
+    "displayTitle": "Summary",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-4",
+    "title": "Summary",
+    "_type": "article",
+    "_courseOrder": "2-11"
+  },
+  {
+    "_id": "596737561568f8e516392ec7",
+    "_sortOrder": 0,
+    "_parentId": "596737551568f8e516392ebc",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "58d2536913b751d90c4ed8b2",
+    "displayTitle": "Intro",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "title": "Intro",
+    "_type": "article",
+    "_courseOrder": "3-0"
+  },
+  {
+    "_id": "596737551568f8e516392ebd",
+    "_sortOrder": 1,
+    "_parentId": "596737551568f8e516392ebc",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "58d2536813b751d90c4ed889",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Who to target first? ",
+    "_type": "article",
+    "_courseOrder": "3-1"
+  },
+  {
+    "_id": "596737571568f8e516392edd",
+    "_sortOrder": 2,
+    "_parentId": "596737551568f8e516392ebc",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "591c4caa02778c512a0aabd3",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "The diffusion of innovation",
+    "_type": "article",
+    "_courseOrder": "3-2"
+  },
+  {
+    "_id": "596737551568f8e516392ec0",
+    "_sortOrder": 3,
+    "_parentId": "596737551568f8e516392ebc",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "58d2536813b751d90c4ed895",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Creating a sales process",
+    "_type": "article",
+    "_courseOrder": "3-3"
+  },
+  {
+    "_id": "596737561568f8e516392ed7",
+    "_sortOrder": 4,
+    "_parentId": "596737551568f8e516392ebc",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "591b688a02778c512a0aa9dd",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "The phases of the sales process",
+    "_type": "article",
+    "_courseOrder": "3-4"
+  },
+  {
+    "_id": "596737561568f8e516392ecd",
+    "_sortOrder": 5,
+    "_parentId": "596737551568f8e516392ebc",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58dbc7cffddda761309e05f0",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "58b6b5df6faa37e74495147c"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Dashboards",
+    "_type": "article",
+    "_courseOrder": "3-5"
+  },
+  {
+    "_id": "596737571568f8e516392eda",
+    "_sortOrder": 6,
+    "_parentId": "596737551568f8e516392ebc",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "591b6bd602778c512a0aa9e0",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58b6b5df6faa37e74495147c",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Good metrics vs vanity metrics",
+    "_type": "article",
+    "_courseOrder": "3-6"
+  },
+  {
+    "_id": "596737571568f8e516392ee1",
+    "_sortOrder": 7,
+    "_parentId": "596737551568f8e516392ebc",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "593920eb08a265827f217b48",
+    "displayTitle": "Ready to test your skills?",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "595628b8ef64ffa15e2f1e24"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Ready to test your skills?",
+    "_type": "article",
+    "_courseOrder": "3-7"
+  },
+  {
+    "_id": "596737551568f8e516392ec3",
+    "_sortOrder": 8,
+    "_parentId": "596737551568f8e516392ebc",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "58d2536913b751d90c4ed8a8",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question : Who to target first",
+    "_type": "article",
+    "_courseOrder": "3-8"
+  },
+  {
+    "_id": "596737561568f8e516392ed0",
+    "_sortOrder": 9,
+    "_parentId": "596737551568f8e516392ebc",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "58dbca3dfddda761309e05f6",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question : Sales process",
+    "_type": "article",
+    "_courseOrder": "3-9"
+  },
+  {
+    "_id": "596737561568f8e516392ed4",
+    "_sortOrder": 10,
+    "_parentId": "596737551568f8e516392ebc",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "58dbccc8fddda761309e0600",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question : Good metrics",
+    "_type": "article",
+    "_courseOrder": "3-10"
+  },
+  {
+    "_id": "596737561568f8e516392eca",
+    "_sortOrder": 11,
+    "_parentId": "596737551568f8e516392ebc",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "58d2536913b751d90c4ed8b7",
+    "displayTitle": "Summary",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-4",
+    "title": "Summary",
+    "_type": "article",
+    "_courseOrder": "3-11"
+  },
+  {
+    "_id": "596737531568f8e516392e95",
+    "_sortOrder": 0,
+    "_parentId": "596737521568f8e516392e7c",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "_refId": "58dd5115fddda761309e06b2",
+    "displayTitle": "Intro",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "title": "Intro",
+    "_type": "article",
+    "_courseOrder": "4-0"
+  },
+  {
+    "_id": "596737521568f8e516392e7d",
+    "_courseId": "5967374c1568f8e516392e16",
+    "_parentId": "596737521568f8e516392e7c",
     "_sortOrder": 1,
     "__v": 0,
+    "displayTitle": "&nbsp;",
+    "body": "",
+    "_refId": "58d2536413b751d90c4ed7f5",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -4326,9 +3673,14 @@
             "_height": 200
           },
           "_large": {
-            "src": "course/en/assets/images/58ad7fa450d3bf600d233ae7/large/9b1aace922c3ab61d09d8d820d4b9563.png",
             "_shouldRepeat": false,
-            "_height": 200
+            "_height": 200,
+            "src": {
+              "_id": "58ad7fa450d3bf600d233ae7",
+              "_extension": "png",
+              "_type": "image",
+              "_size": "large"
+            }
           }
         },
         "_isEnabled": false
@@ -4357,21 +3709,26 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "New Article Title",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "How to divide equity between founders? ",
     "_type": "article",
-    "_courseOrder": "5-1"
+    "_courseOrder": "4-1"
   },
   {
-    "_id": "58b703456faa37e744951533",
+    "_id": "596737521568f8e516392e86",
     "_sortOrder": 2,
-    "_parentId": "58b703456faa37e74495152b",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737521568f8e516392e7c",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "displayTitle": "",
+    "body": "",
+    "_refId": "58d2536513b751d90c4ed820",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -4426,21 +3783,24 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "New Article Title",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "When and how to register your business",
     "_type": "article",
-    "_courseOrder": "5-2"
+    "_courseOrder": "4-2"
   },
   {
-    "_id": "58b703456faa37e744951534",
+    "_id": "596737531568f8e516392e98",
     "_sortOrder": 3,
-    "_parentId": "58b703456faa37e74495152b",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737521568f8e516392e7c",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "591c4e1302778c512a0aabd5",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -4495,90 +3855,104 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-1",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "5-3"
-  },
-  {
-    "_id": "58b703456faa37e744951532",
-    "_sortOrder": 4,
-    "_parentId": "58b703456faa37e74495152b",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
+    "_hasScrollActionButton": false,
     "_classes": "article-style-7",
-    "title": "New Article Title",
+    "title": "Types of businesses",
     "_type": "article",
-    "_courseOrder": "5-4"
+    "_courseOrder": "4-3"
   },
   {
-    "_id": "58b703456faa37e744951535",
+    "_id": "596737521568f8e516392e80",
+    "_sortOrder": 4,
+    "_parentId": "596737521568f8e516392e7c",
+    "_courseId": "5967374c1568f8e516392e16",
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d2536413b751d90c4ed800",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58b6b5df6faa37e74495147c",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Your legal responsibilities as a director ",
+    "_type": "article",
+    "_courseOrder": "4-4"
+  },
+  {
+    "_id": "596737531568f8e516392e9b",
     "_sortOrder": 5,
-    "_parentId": "58b703456faa37e74495152b",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737521568f8e516392e7c",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "593920eb08a265827f217b48",
+    "displayTitle": "Ready to test your skills?",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -4603,12 +3977,11 @@
             "_height": 200
           },
           "_large": {
-            "src": "course/en/assets/images/58d3a8d113b751d90c4ed947/large/e18d737bf064a2327b98dde035b0a5af.png",
             "_shouldRepeat": false,
             "_height": 200
           }
         },
-        "_isEnabled": true
+        "_isEnabled": false
       },
       "_before": {
         "_graphic": {
@@ -4632,23 +4005,32 @@
     "_backgroundImage": {
       "_repeat": false,
       "_position": "center",
-      "_size": "initial"
+      "_size": "cover",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "595628b8ef64ffa15e2f1e24"
+      }
     },
-    "_classes": "article-style-1",
-    "title": "New Article Title",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Ready to test your skills?",
     "_type": "article",
-    "_courseOrder": "5-5"
+    "_courseOrder": "4-5"
   },
   {
-    "_id": "58b703456faa37e744951537",
+    "_id": "596737521568f8e516392e83",
     "_sortOrder": 6,
-    "_parentId": "58b703456faa37e74495152b",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737521568f8e516392e7c",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "body": "",
+    "_refId": "58d2536513b751d90c4ed81b",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -4703,21 +4085,24 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-3",
-    "title": "New Article Title",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question 1 : Registering your company",
     "_type": "article",
-    "_courseOrder": "5-6"
+    "_courseOrder": "4-6"
   },
   {
-    "_id": "58b703456faa37e744951536",
+    "_id": "596737531568f8e516392e8d",
     "_sortOrder": 7,
-    "_parentId": "58b703456faa37e74495152b",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737521568f8e516392e7c",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "58dd4fdcfddda761309e06ae",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -4772,21 +4157,24 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-3",
-    "title": "New Article Title",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question 2 : Dividing Equity between founders",
     "_type": "article",
-    "_courseOrder": "5-7"
+    "_courseOrder": "4-7"
   },
   {
-    "_id": "58b703456faa37e744951538",
+    "_id": "596737531568f8e516392e91",
     "_sortOrder": 8,
-    "_parentId": "58b703456faa37e74495152b",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737521568f8e516392e7c",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "58dd4fe2fddda761309e06b0",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -4841,21 +4229,25 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-3",
-    "title": "New Article Title",
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Question 3 : Director Responsibilities",
     "_type": "article",
-    "_courseOrder": "5-8"
+    "_courseOrder": "4-8"
   },
   {
-    "_id": "58b703456faa37e74495153a",
+    "_id": "596737521568f8e516392e8a",
     "_sortOrder": 9,
-    "_parentId": "58b703456faa37e74495152b",
-    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "596737521568f8e516392e7c",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "58d2536513b751d90c4ed825",
+    "displayTitle": "Summary",
     "_progress": {
       "_isEnabled": true
     },
     "_contentLocking": {
+      "_lockedApperance": "default",
       "_requiredAmount": 0,
       "_requiredCompleteIds": [],
       "_lockIcon": "lock",
@@ -4910,78 +4302,10 @@
       "_position": "center",
       "_size": "initial"
     },
+    "_hasScrollActionButton": false,
     "_classes": "article-style-4",
-    "title": "New Article Title",
+    "title": "Summary",
     "_type": "article",
-    "_courseOrder": "5-9"
-  },
-  {
-    "_id": "58cfa3e513b751d90c4ed500",
-    "_sortOrder": 10,
-    "_parentId": "58b703456faa37e74495152b",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_classes": "article-style-10",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "5-10"
+    "_courseOrder": "4-9"
   }
 ]
